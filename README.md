@@ -1,9 +1,8 @@
 <div align="center">
 
-<img src="./static/image/mirofish-offline-banner.png" alt="MiroFish Offline" width="100%"/>
+<img src="./static/image/mirofish-offline-banner.png" alt="MiroFish-EN" width="100%"/>
 
-# MiroFish-Offline
-
+# MiroFish-EN
 **English fork of [MiroFish](https://github.com/666ghj/MiroFish) — run fully local or with cloud APIs.**
 
 *A multi-agent swarm intelligence engine that simulates public opinion, market sentiment, and social dynamics.*
